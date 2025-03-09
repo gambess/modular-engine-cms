@@ -50,3 +50,9 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+# Other folders
+/var/
+/node_modules/
+.env*
+/nbproject/
